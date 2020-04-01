@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1567570605 source:c:\users\nicolas\desktop\tp1calculadora\funciones.c
+	"funciones.h"
+
+1567570605 c:\users\nicolas\desktop\tp1calculadora\funciones.h
+
+1567570605 source:c:\users\nicolas\desktop\tp1calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567570606 source:c:\users\nico\desktop\tp1calculadoraok\funciones.c
+	"funciones.h"
+
+1567570606 c:\users\nico\desktop\tp1calculadoraok\funciones.h
+
+1567627629 source:c:\users\nico\desktop\tp1calculadoraok\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567654569 source:c:\users\nicolas\desktop\tp1calculadorafinallll\funciones.c
+	"funciones.h"
+
+1567570606 c:\users\nicolas\desktop\tp1calculadorafinallll\funciones.h
+
+1567654767 source:c:\users\nicolas\desktop\tp1calculadorafinallll\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567654570 source:c:\users\nico\desktop\tp1calculadora\funciones.c
+	"funciones.h"
+
+1567570606 c:\users\nico\desktop\tp1calculadora\funciones.h
+
+1567694324 source:c:\users\nico\desktop\tp1calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567700028 source:c:\users\nicolas\desktop\tp_laboratorio_1-master\tp1calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567740576 c:\users\nicolas\desktop\tp_laboratorio_1-master\tp1calculadora\funciones.h
+
+1567726320 source:c:\users\nicolas\desktop\tp_laboratorio_1-master(2)\tp_laboratorio_1-master\tp1calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567726320 c:\users\nicolas\desktop\tp_laboratorio_1-master(2)\tp_laboratorio_1-master\tp1calculadora\funciones.h
+
+1567741050 source:e:\tp_laboratorio_1-master(2)\tp_laboratorio_1-master\tp1calculadora\funciones.c
+	"funciones.h"
+
+1567726320 e:\tp_laboratorio_1-master(2)\tp_laboratorio_1-master\tp1calculadora\funciones.h
+
+1567726320 source:e:\tp_laboratorio_1-master(2)\tp_laboratorio_1-master\tp1calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

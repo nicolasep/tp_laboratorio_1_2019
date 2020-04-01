@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1570082494 source:c:\users\nicolas\desktop\tplaboratorio2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570080843 c:\users\nicolas\desktop\tplaboratorio2\arrayemployees.h
+
+1570080878 source:c:\users\nicolas\desktop\tplaboratorio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570132488 source:e:\tplaboratorio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570132616 e:\tplaboratorio2\arrayemployees.h
+
+1570128148 source:e:\tplaboratorio2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570220958 source:e:\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570132616 e:\tp2\arrayemployees.h
+
+1570221454 source:e:\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570240702 source:c:\users\alumno\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570237268 c:\users\alumno\desktop\tp2\arrayemployees.h
+
+1570239658 source:c:\users\alumno\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+

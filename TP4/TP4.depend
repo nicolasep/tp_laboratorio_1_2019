@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1574212131 source:c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"nicolas.h"
+	"Controller.h"
+	"conio.h"
+
+1533133022 c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\linkedlist.h
+
+1574209845 c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\employee.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"nicolas.h"
+
+1574092290 c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\nicolas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1533133022 c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\parser.h
+
+1574117662 c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\controller.h
+
+1574117507 source:c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\employee.c
+	"Employee.h"
+
+1574209281 source:c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+
+1574387237 source:c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574211152 source:c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\nicolas.c
+	"nicolas.h"
+
+1574117589 source:c:\users\nicolas\desktop\tp4con3-prueba\ok\tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1574212132 source:d:\tp4-para entregar\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"nicolas.h"
+	"Controller.h"
+	"conio.h"
+
+1533133022 d:\tp4-para entregar\linkedlist.h
+
+1574209846 d:\tp4-para entregar\employee.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"nicolas.h"
+
+1574092292 d:\tp4-para entregar\nicolas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1533133022 d:\tp4-para entregar\parser.h
+
+1574117664 d:\tp4-para entregar\controller.h
+
+1574117508 source:d:\tp4-para entregar\employee.c
+	"Employee.h"
+
+1574387238 source:d:\tp4-para entregar\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574209282 source:d:\tp4-para entregar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+
+1574211154 source:d:\tp4-para entregar\nicolas.c
+	"nicolas.h"
+
+1574117590 source:d:\tp4-para entregar\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
